@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Ellipse">
+<circle cx="10" cy="10" r="10" fill="white"/>
+<circle cx="10" cy="10" r="10" fill="url(#pattern0)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1045_915" transform="scale(0.000976562)"/>
+</pattern>
+</defs>
+</svg>
